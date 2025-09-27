@@ -1,0 +1,14 @@
+C:\Users\Micro01\OneDrive\Documentos\coisa iper importante de echola e trabaio\Tecnico\C#\csharp-main\Aula3 - 3\Aula3 - 3\obj\Debug\net8.0\Aula3 - 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro01\OneDrive\Documentos\coisa iper importante de echola e trabaio\Tecnico\C#\csharp-main\Aula3 - 3\Aula3 - 3\obj\Debug\net8.0\Aula3 - 3.AssemblyInfoInputs.cache
+C:\Users\Micro01\OneDrive\Documentos\coisa iper importante de echola e trabaio\Tecnico\C#\csharp-main\Aula3 - 3\Aula3 - 3\obj\Debug\net8.0\Aula3 - 3.AssemblyInfo.cs
+C:\Users\Micro01\OneDrive\Documentos\coisa iper importante de echola e trabaio\Tecnico\C#\csharp-main\Aula3 - 3\Aula3 - 3\obj\Debug\net8.0\Aula3 - 3.csproj.CoreCompileInputs.cache
+C:\Users\Micro01\OneDrive\Documentos\coisa iper importante de echola e trabaio\Tecnico\C#\csharp-main\Aula3 - 3\Aula3 - 3\bin\Debug\net8.0\Aula3 - 3.exe
+C:\Users\Micro01\OneDrive\Documentos\coisa iper importante de echola e trabaio\Tecnico\C#\csharp-main\Aula3 - 3\Aula3 - 3\bin\Debug\net8.0\Aula3 - 3.deps.json
+C:\Users\Micro01\OneDrive\Documentos\coisa iper importante de echola e trabaio\Tecnico\C#\csharp-main\Aula3 - 3\Aula3 - 3\bin\Debug\net8.0\Aula3 - 3.runtimeconfig.json
+C:\Users\Micro01\OneDrive\Documentos\coisa iper importante de echola e trabaio\Tecnico\C#\csharp-main\Aula3 - 3\Aula3 - 3\bin\Debug\net8.0\Aula3 - 3.dll
+C:\Users\Micro01\OneDrive\Documentos\coisa iper importante de echola e trabaio\Tecnico\C#\csharp-main\Aula3 - 3\Aula3 - 3\bin\Debug\net8.0\Aula3 - 3.pdb
+C:\Users\Micro01\OneDrive\Documentos\coisa iper importante de echola e trabaio\Tecnico\C#\csharp-main\Aula3 - 3\Aula3 - 3\obj\Debug\net8.0\Aula3 - 3.dll
+C:\Users\Micro01\OneDrive\Documentos\coisa iper importante de echola e trabaio\Tecnico\C#\csharp-main\Aula3 - 3\Aula3 - 3\obj\Debug\net8.0\refint\Aula3 - 3.dll
+C:\Users\Micro01\OneDrive\Documentos\coisa iper importante de echola e trabaio\Tecnico\C#\csharp-main\Aula3 - 3\Aula3 - 3\obj\Debug\net8.0\Aula3 - 3.pdb
+C:\Users\Micro01\OneDrive\Documentos\coisa iper importante de echola e trabaio\Tecnico\C#\csharp-main\Aula3 - 3\Aula3 - 3\obj\Debug\net8.0\Aula3 - 3.genruntimeconfig.cache
+C:\Users\Micro01\OneDrive\Documentos\coisa iper importante de echola e trabaio\Tecnico\C#\csharp-main\Aula3 - 3\Aula3 - 3\obj\Debug\net8.0\ref\Aula3 - 3.dll
