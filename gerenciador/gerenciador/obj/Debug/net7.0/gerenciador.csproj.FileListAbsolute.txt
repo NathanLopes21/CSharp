@@ -1,0 +1,15 @@
+C:\Users\aluno\Music\gerenciador\gerenciador\bin\Debug\net7.0\gerenciador.exe
+C:\Users\aluno\Music\gerenciador\gerenciador\bin\Debug\net7.0\gerenciador.deps.json
+C:\Users\aluno\Music\gerenciador\gerenciador\bin\Debug\net7.0\gerenciador.runtimeconfig.json
+C:\Users\aluno\Music\gerenciador\gerenciador\bin\Debug\net7.0\gerenciador.dll
+C:\Users\aluno\Music\gerenciador\gerenciador\bin\Debug\net7.0\gerenciador.pdb
+C:\Users\aluno\Music\gerenciador\gerenciador\obj\Debug\net7.0\gerenciador.csproj.AssemblyReference.cache
+C:\Users\aluno\Music\gerenciador\gerenciador\obj\Debug\net7.0\gerenciador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Music\gerenciador\gerenciador\obj\Debug\net7.0\gerenciador.AssemblyInfoInputs.cache
+C:\Users\aluno\Music\gerenciador\gerenciador\obj\Debug\net7.0\gerenciador.AssemblyInfo.cs
+C:\Users\aluno\Music\gerenciador\gerenciador\obj\Debug\net7.0\gerenciador.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Music\gerenciador\gerenciador\obj\Debug\net7.0\gerenciador.dll
+C:\Users\aluno\Music\gerenciador\gerenciador\obj\Debug\net7.0\refint\gerenciador.dll
+C:\Users\aluno\Music\gerenciador\gerenciador\obj\Debug\net7.0\gerenciador.pdb
+C:\Users\aluno\Music\gerenciador\gerenciador\obj\Debug\net7.0\gerenciador.genruntimeconfig.cache
+C:\Users\aluno\Music\gerenciador\gerenciador\obj\Debug\net7.0\ref\gerenciador.dll
