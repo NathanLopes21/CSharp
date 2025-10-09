@@ -1,0 +1,15 @@
+C:\Users\aluno\Music\atv32\atv32\bin\Debug\net7.0\atv32.exe
+C:\Users\aluno\Music\atv32\atv32\bin\Debug\net7.0\atv32.deps.json
+C:\Users\aluno\Music\atv32\atv32\bin\Debug\net7.0\atv32.runtimeconfig.json
+C:\Users\aluno\Music\atv32\atv32\bin\Debug\net7.0\atv32.dll
+C:\Users\aluno\Music\atv32\atv32\bin\Debug\net7.0\atv32.pdb
+C:\Users\aluno\Music\atv32\atv32\obj\Debug\net7.0\atv32.csproj.AssemblyReference.cache
+C:\Users\aluno\Music\atv32\atv32\obj\Debug\net7.0\atv32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Music\atv32\atv32\obj\Debug\net7.0\atv32.AssemblyInfoInputs.cache
+C:\Users\aluno\Music\atv32\atv32\obj\Debug\net7.0\atv32.AssemblyInfo.cs
+C:\Users\aluno\Music\atv32\atv32\obj\Debug\net7.0\atv32.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Music\atv32\atv32\obj\Debug\net7.0\atv32.dll
+C:\Users\aluno\Music\atv32\atv32\obj\Debug\net7.0\refint\atv32.dll
+C:\Users\aluno\Music\atv32\atv32\obj\Debug\net7.0\atv32.pdb
+C:\Users\aluno\Music\atv32\atv32\obj\Debug\net7.0\atv32.genruntimeconfig.cache
+C:\Users\aluno\Music\atv32\atv32\obj\Debug\net7.0\ref\atv32.dll
